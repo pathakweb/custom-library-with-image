@@ -1,4 +1,4 @@
-# myUI
+# my own custom library
 
 Example on how to build your own UI components library with your custom images
 

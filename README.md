@@ -7,24 +7,24 @@ Example on how to build your own UI components library and showcase it in the sa
 ### Installing
 
 ```
-yarn
+npm
 ```
 
 ## Building
 
 To build the library:
 
-`yarn build`
+`npm build`
 
 To build the docs:
 
-`yarn build:docs`
+`npm build:docs`
 
 ## Running
 
 To start the documentation where you can show case the elements from lib:
 
-`yarn start`
+`npm start`
 
 ## Built With
 
@@ -32,14 +32,8 @@ To start the documentation where you can show case the elements from lib:
 * [Parcel Bundler](https://parceljs.org/) - For building the docs
 * React
 
-## Contributing
-
-All PR's are welcome.
-
 ## Authors
 
-* **Pedro Madruga** - [twitter](https://twitter.com/thepedromadruga)
+* **Amit Pathak** -
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
